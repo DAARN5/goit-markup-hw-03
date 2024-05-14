@@ -207,8 +207,9 @@ width: calc((100% - 3 * 24px) / 4);
 }
 /*----------TEAM------------*/
 .team {
-background-color: #F4F4FD
-padding: 120px 0;
+    padding: 120px 0 ;
+background-color: #F4F4FD 
+
 }
 .team-title{
     font-weight: 700;
@@ -218,6 +219,7 @@ padding: 120px 0;
     text-align: center;
     text-transform: capitalize;
     color: #2e2f42;
+    margin-bottom: 72px;
 }
 .team-list {
     border-radius: 0px 0px 4px 4px;
