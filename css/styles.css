@@ -229,6 +229,10 @@ background-color: #F4F4FD
 }
 .team-item {
 background-color: #FFFFFF;
+border-radius: 0px 0px 4px 4px;
+}
+.subtitle-div {
+    padding: 32px 0;
 }
 .team-image {
 
