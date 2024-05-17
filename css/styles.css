@@ -108,8 +108,7 @@ a {
         
 }
 .header-menu-item {
-    display: flex;
-        gap: 40px;
+   
         padding: 24px 0;
        
 }
@@ -182,7 +181,7 @@ a {
 }
 
 .visually-hidden {
-    position: absolute;
+    position: absolute;kpoml;.
     width: 1px;
     height: 1px;
     margin: -1px;
